@@ -1,3 +1,5 @@
+# Custom FAQ Accordion Component with HTML, CSS, and JavaScript
+
 Building an accordion component with accessibility in mind requires a lot of aria attributes, keyboard events, and more. While you can quickly get a functional accordion up and running, making it truly full-featured requires some more careful planning.
 
 In this video, I'll show you how to create custom accordion with HTML, CSS, and vanilla JavaScript. As you watch and code along, think about how you might do things differently and then leave a comment or make a pull request on the Community Improvements branch to build out something better together in public.
