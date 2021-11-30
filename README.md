@@ -22,20 +22,6 @@ In this video, I'll show you how to create custom accordion with HTML, CSS, and 
 
 ---------------------------------------
 
-⏲️  Timestamps ⏲️
-0:00 Introduction
-1:48 HTML
-5:36 CSS for the page
-11:22 CSS for the accordion
-20:12 JS: Creating the Class constructor
-24:50 JS: Adding metadata to buttons and panels
-34:06 JS: Adding click event listeners
-39:53 JS: Adding keyboard event listeners
-43:32 JS: Functionality for options object
-47:52: Conclusion
-
----------------------------------------
-
 🌐 Connect With Me 🌐 
 - Website: https://www.codinginpublic.dev
 - Blog: https://www.chrispennington.blog
