@@ -104,6 +104,9 @@ class Accordion {
                 this.panels.forEach((panel) => {
                     panel.setAttribute('hidden', 'true');
                 });
+                this.buttons.forEach((btn) => {
+                    btn.setAttribute('aria-expanded', 'false');
+                });
             }
 
             if (isExpanded) {
